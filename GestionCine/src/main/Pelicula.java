@@ -1,8 +1,8 @@
 package main;
 
+// Clase que reperesenta una Pelicula
 public class Pelicula {
-<<<<<<< HEAD
-	
+
 	private String titulo;
 	private int duracion;
 	private int edad_minima;
@@ -46,12 +46,4 @@ public class Pelicula {
 	public void setDirector(String director) {
 		this.director = director;
 	}
-=======
-	private String titulo;
-	private int duracion;
-	private int edad;
-	private String director;
-	
->>>>>>> b87e30299a6c7a413a10b816b8fa4eaece25bd7e
-	
 }
