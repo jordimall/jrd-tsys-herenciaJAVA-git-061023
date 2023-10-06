@@ -38,4 +38,5 @@ public class Espectador
 		this.dinero = dinero;
 	}
  
+
 }
